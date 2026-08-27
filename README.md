@@ -22,13 +22,14 @@ The project follows an end-to-end analytics workflow:
 
 ## Project Files
 
-- 📊 [Power BI Dashboard](Powerbi/Shipment_Lead_Time_Analysis.pbix)
-- 🖼️ [Executive Summary](Screenshots/executive_summary.png)
-- 🖼️ [Variability & Operational Impact](Screenshots/variability_operational_impact.png)
+- 📊 [Power BI Dashboard](Powerbi/Shipment%20Lead%20Time%20Performance.pbix)
+- 🖼️ [Executive Summary](Screenshots/Executive%20Summary.png)
+- 🖼️ [Variability & Operational Impact](Screenshots/Variability%20%26%20Operational%20Impact.png)
 - 🧮 [SQL Analysis](Sql/)
 - 📋 [Data Quality Documentation](Documentation/data_quality.md)
 - 📝 [Analytical Decision Log](Documentation/decision_log.md)
 - 📁 [Data Documentation](Data/README.md)
+
 
 ---
 
