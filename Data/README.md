@@ -14,11 +14,20 @@ The final analytical dataset used for this project contains:
 
 ## Data Availability
 
-The original dataset is not included in this repository.
+The original dataset used for this analysis is included in this repository.
 
-This repository focuses on documenting the analytical process, data preparation decisions, SQL analysis and Power BI dashboard development.
+File location: Data/shipment_data_raw.csv
 
-The dataset used in the project was processed and validated before being used for statistical analysis and visualization.
+Original source: [Kaggle - Supply Chain Shipment Price Data Analysis]
+(https://www.kaggle.com/code/divyeshardeshana/supply-chain-shipment-price-data-analysis)
+
+The original dataset contains 10,324 shipment records and is preserved in its raw format.
+
+Following data quality assessment and validation, the final analytical population contains 4,587 valid shipment records used for SQL analysis, statistical evaluation and Power BI visualization.
+
+The difference between the original and analytical datasets results from excluding records without sufficient valid date information to calculate Lead Time and records with negative Lead Time values.
+
+The original dataset and the validated analytical population are kept conceptually separate to ensure transparency and traceability throughout the analytical process.
 
 ---
 
