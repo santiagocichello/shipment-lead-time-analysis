@@ -16,7 +16,7 @@ The final analytical dataset used for this project contains:
 
 The original dataset used for this analysis is included in this repository.
 
-File location: Data/shipment_data_raw.csv
+File location: Data/SCMS_Delivery_History_Dataset.csv
 
 Original source: [Kaggle - Supply Chain Shipment Price Data Analysis]
 
